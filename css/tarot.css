@@ -1,0 +1,15 @@
+.Tarot-Inicio{ display: flex;
+justify-content: space-between;}
+
+.card{ width: 26rem;
+    margin: 70px;
+position: relative;}
+
+
+
+.card-text{ display: flex ;
+justify-content: center;}
+
+.logotipo{ display: flex;
+justify-content: center;}
+
